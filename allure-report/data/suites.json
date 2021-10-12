@@ -1,0 +1,78 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Ecommerce Application",
+    "children" : [ {
+      "name" : "UI Controls sanity",
+      "uid" : "ea76e60f7c749d2e",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1633974986427,
+        "stop" : 1633975000372,
+        "duration" : 13945
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Dynamic dropdown Smoke",
+      "uid" : "97352e7a10f5edcf",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633975000373,
+        "stop" : 1633975011076,
+        "duration" : 10703
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Checkbox identification",
+      "uid" : "cddb61bf34abbf41",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633975011077,
+        "stop" : 1633975016366,
+        "duration" : 5289
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    } ],
+    "uid" : "6c8c5f561facedc0b08f79415b94aea4"
+  }, {
+    "name" : "Windows and Frames Misc",
+    "children" : [ {
+      "name" : "Parent and Child windows switch",
+      "uid" : "ed9a6761f89c4afb",
+      "parentUid" : "02a0b0a2cef10d2d862364c530b52703",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633974986468,
+        "stop" : 1633975003330,
+        "duration" : 16862
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "f93d9fe3bd12e5b1",
+      "parentUid" : "02a0b0a2cef10d2d862364c530b52703",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633975003331,
+        "stop" : 1633975007906,
+        "duration" : 4575
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-94.0.4606.71" ]
+    } ],
+    "uid" : "02a0b0a2cef10d2d862364c530b52703"
+  } ]
+}

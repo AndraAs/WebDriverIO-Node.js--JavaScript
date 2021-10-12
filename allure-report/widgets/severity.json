@@ -1,0 +1,51 @@
+[ {
+  "uid" : "ed9a6761f89c4afb",
+  "name" : "Parent and Child windows switch",
+  "time" : {
+    "start" : 1633974986468,
+    "stop" : 1633975003330,
+    "duration" : 16862
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea76e60f7c749d2e",
+  "name" : "UI Controls sanity",
+  "time" : {
+    "start" : 1633974986427,
+    "stop" : 1633975000372,
+    "duration" : 13945
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f93d9fe3bd12e5b1",
+  "name" : "Frames switch",
+  "time" : {
+    "start" : 1633975003331,
+    "stop" : 1633975007906,
+    "duration" : 4575
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cddb61bf34abbf41",
+  "name" : "Checkbox identification",
+  "time" : {
+    "start" : 1633975011077,
+    "stop" : 1633975016366,
+    "duration" : 5289
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97352e7a10f5edcf",
+  "name" : "Dynamic dropdown Smoke",
+  "time" : {
+    "start" : 1633975000373,
+    "stop" : 1633975011076,
+    "duration" : 10703
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

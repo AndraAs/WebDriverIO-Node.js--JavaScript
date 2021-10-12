@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Oct 11 18:56:26 WEST 2021","Mon Oct 11 18:56:43 WEST 2021","16862","","Windows and Frames Misc","","Windows and Frames Misc","Parent and Child windows switch","Parent and Child windows switch",""
+"passed","Mon Oct 11 18:56:43 WEST 2021","Mon Oct 11 18:56:47 WEST 2021","4575","","Windows and Frames Misc","","Windows and Frames Misc","Frames switch","Frames switch",""
+"failed","Mon Oct 11 18:56:26 WEST 2021","Mon Oct 11 18:56:40 WEST 2021","13945","","Ecommerce Application","","Ecommerce Application","UI Controls sanity","UI Controls sanity",""
+"passed","Mon Oct 11 18:56:40 WEST 2021","Mon Oct 11 18:56:51 WEST 2021","10703","","Ecommerce Application","","Ecommerce Application","Dynamic dropdown Smoke","Dynamic dropdown Smoke",""
+"passed","Mon Oct 11 18:56:51 WEST 2021","Mon Oct 11 18:56:56 WEST 2021","5289","","Ecommerce Application","","Ecommerce Application","Checkbox identification","Checkbox identification",""

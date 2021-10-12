@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected 'teach' to equal 'teachs'      \n                      actual expected\n                      \n                      'teachteachs'\n                      ",
+      "children" : [ {
+        "name" : "UI Controls sanity",
+        "uid" : "ea76e60f7c749d2e",
+        "parentUid" : "1b13e893e02807351e7e7d0cb02d0739",
+        "status" : "failed",
+        "time" : {
+          "start" : 1633974986427,
+          "stop" : 1633975000372,
+          "duration" : 13945
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-94.0.4606.71" ]
+      } ],
+      "uid" : "1b13e893e02807351e7e7d0cb02d0739"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
