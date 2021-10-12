@@ -6,3 +6,5 @@ chromeDownloads
 package-lock.json
 images
 .xray
+allure-report
+allure-results
