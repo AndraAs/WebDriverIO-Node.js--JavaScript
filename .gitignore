@@ -1,10 +1,6 @@
-.env
 debug.log
 node_modules
 reports
-chromeDownloads
 package-lock.json
-images
-.xray
-allure-report
-allure-results
+/*/allure-results/
+/*/allure-report/
