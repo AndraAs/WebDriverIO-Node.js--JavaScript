@@ -25,7 +25,7 @@ describe("Ecommerce Application", () => {
     dropdown.selectByAttribute("value", "teach");
     dropdown.selectByVisibleText("Consultant");
     dropdown.selectByIndex(1);
-    expectChai(dropdown.getValue()).to.equal("teachs");
+    expectChai(dropdown.getValue()).to.equal("teach");
 
     // const signInBtn = $("#signInBtn")
     // signInBtn.click()
